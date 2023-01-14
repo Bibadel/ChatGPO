@@ -1,0 +1,23 @@
+{
+  "name": "chatraph",
+  "version": "1.0.0",
+  "description": "Simple Chat en ReactJS et Back Node afin d'apprendre l'utilisation de Pusher",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bibadel/ChatGPO.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bibadel/ChatGPO/issues"
+  },
+  "homepage": "https://github.com/Bibadel/ChatGPO#readme",
+  "dependencies": {
+    "pusher": "^5.1.2"
+  }
+}
